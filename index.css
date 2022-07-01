@@ -1,0 +1,26 @@
+body{
+    margin: 0;  
+}
+.container{
+    width: 1320px;
+    margin-top: 15vh;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.col-6{
+    width: 50%;
+}
+.container-slide{
+    margin: auto;
+    /* overflow: hidden; */
+    border: 5px solid black;
+}
+.slide{
+    display: flex;
+    position: relative;
+}
+img{
+width: 100%;
+}
